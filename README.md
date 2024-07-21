@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @emurph763
 - 👀 I’m interested in Data Visualization
-- 🌱 I’m currently learning R and SQL
+- 🌱 I’m currently learning R and Dash
 - 💞️ I’m looking to collaborate on fun and exciting Data Analysis projects
 - 📫 How to reach me: emilydotmurphy@gmail.com
-- 😄 Pronouns: She/They
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a massive fan of Survivor! Expect various projects with SurvivoR data very soon!
 
 <!---
